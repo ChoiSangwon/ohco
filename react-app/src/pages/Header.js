@@ -15,7 +15,7 @@ const StyledHearder = styled.div({
 const StyledText = styled.div({
     display:'inline-block',
     fontSize:'30px',
-    padding:'10px 0 0 10px',
+    padding:'20px 0 0 20px',
 })
 
 function Headers(){
