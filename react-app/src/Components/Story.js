@@ -6,6 +6,8 @@ const StyledStory = styled.div({
   width: "350px",
   boxShadow: "5px 5px 10px 3px rgba(0, 0, 0, 0.25)",
   borderRadius: "30px",
+  marginLeft: "30px",
+  marginRight: "30px",
 });
 
 const StyledHearder = styled.div({
